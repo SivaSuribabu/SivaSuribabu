@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SivaSuribabu
 - 👀 I’m interested in Data analytics.
-- 🌱 I’m currently learning Data analysis.
+- 🌱 I’m currently Working as Data analyst.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.sivasuribabupenkey@gmail.com
 
